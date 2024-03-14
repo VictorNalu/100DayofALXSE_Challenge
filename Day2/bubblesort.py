@@ -17,7 +17,7 @@ def bubblesort(a):
 try:
     user_input = input("\nEnter the numbers you want to sort:\n\n")
     v = [int(c) for c in user_input.split()]
-    print(f"\n{v}")
+    print(f"\nYour input is {v}")
     b = bubblesort(v)
     print("\nFinished sorting.")
     print(f"\nYour sorted numbers:{b}\n")
