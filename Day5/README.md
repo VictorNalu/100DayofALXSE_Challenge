@@ -8,8 +8,8 @@ However, there are also new concepts that are introduced;
 a. datetime
 b. cmd module
 c. uuid module
-I also shared the LLS resource with my peers, as it will also help them have a better understanding of what the project requires. I'm currently battling with electricity issues, same as my project partner but that won't deter us. We love to do hard things.
+I also shared the LLS resource with my peers, as it will also help them have a better understanding of what the project requires. I'm currently battling with electricity issues, same as my project partner but that won't deter us. We love to do hard things!
 
-Go to head back to study...
+Got to head back to study...
 
 See you....
