@@ -1,4 +1,4 @@
-# Day 5
+# Day 6
 
 Today is 18th of May, 2024. Yesterday was Sunday, I didn't code anything. I took it as my off day. I went to church, took photos and edited them. I sent them out today.
 
