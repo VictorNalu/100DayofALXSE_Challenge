@@ -28,3 +28,6 @@ Here is the task:
 ## You can find the solution here: [base_model][def]
 
 [def]: https://github.com/VictorNalu/AirBnB_clone/blob/4093d226cb21a85beee1c654ae8bc51bdf2e6b90/models/base_model.py
+
+Today, I also learnt to use branches properly in Github and also how to write python code blocks in a README.md and also the command line code block. You can check it out here: [README][def]
+[def]: https://github.com/VictorNalu/AirBnB_clone/blob/4093d226cb21a85beee1c654ae8bc51bdf2e6b90/README.md
